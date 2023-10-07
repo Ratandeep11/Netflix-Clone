@@ -1,4 +1,4 @@
-Creating a README.md file for your Netflix clone Git repository is a great way to provide information to potential contributors and users. Here's a template you can use:
+
 
 # Netflix Clone
 
